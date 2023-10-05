@@ -1,0 +1,3 @@
+https://github.com/BadirkhanovRovshanITStep/ReactChecklist_4211
+
+Реализовать кнопку удаления таски из списка
